@@ -195,3 +195,6 @@ dist
 
 # Default backup dir
 backup
+
+# Images Docker
+ragflow-custom.tar

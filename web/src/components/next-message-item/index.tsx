@@ -131,7 +131,7 @@ function MessageItem({
         >
           {visibleAvatar &&
             (item.role === MessageType.User ? (
-              <RAGFlowAvatar avatar={avatar ?? '/logo.svg'} />
+              <RAGFlowAvatar avatar={avatar ?? '/neo.png'} />
             ) : avatarDialog || agentName ? (
               <RAGFlowAvatar
                 avatar={avatarDialog as string}

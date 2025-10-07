@@ -16,7 +16,7 @@ export default defineConfig({
   esbuildMinifyIIFE: true,
   icons: {},
   hash: true,
-  favicons: ['/logo.svg'],
+  favicons: ['/neo.png'],
   headScripts: [{ src: '/iconfont.js', defer: true }],
   clickToComponent: {},
   history: {
